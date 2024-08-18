@@ -13,7 +13,7 @@
 > * This is the crux of management: It is the belief that a team of people can achieve more than a single person going it alone. It is the realization that you don't have to do everything yourself, be the best at everything yourself, or even know _how_ to do everything yourself.
 > * **Your job, as a manager, is to _get better outcomes from a group of people working together_.**
 
-How to tell a great manager from an average manager?
+### How to tell a great manager from an average manager?
 
 > * If the job is defined as getting better outcomes from a group of people working together, then a great manager's team will consistently achieve great outcomes.
 > * If the outcome you care about is getting amazing design, then a great manager's team will consistently deliver concepts that wow. A mediocre manager's team will produce work that gets the job done but doesn't stand out. A bad manager's team will regularly suggest proposals that make you think, _Surely we can do better than this_.
@@ -29,7 +29,9 @@ How to tell a great manager from an average manager?
 
 > * Through thick or thin, in spite of the hundreds of things calling for your attention every day, never forget what you're ultimately here to do: help your team achieve great outcomes.
 
-Three things managers think about all day: **_purpose_, _people_, and _process_** — why, who, and how.
+### The three things managers think about all day
+
+The three things managers think about all day: **_purpose_, _people_, and _process_** — why, who, and how.
 
 * **Purpose**: what the team tries to accomplish; ensure that _your team knows what success looks like and cares about achieving it_.
 * **People**: who your team members are; have great people that are set up to succeed, have right skills, and are motivated to do great work.
@@ -38,12 +40,12 @@ Three things managers think about all day: **_purpose_, _people_, and _process_*
 > * Your role as a manager is not to do the work yourself, even if you are the best at it, because that will only take you so far. Your role is to improve the purpose, people, and process of your team to get as high a multiplier effect on your collective outcome as you can.
 > * Once you're able to breathe, your stomach is full, and you're in a safe environment, then you can focus on the next levels up in the hierarchy, such as being part of a community that supports you or contributing something meaningful with your life — what Maslow called "self-actualization."
 
-Managing in survival mode:
+### Managing in survival mode
 
 > * When you are in survival mode, you do what it takes to survive.
 > * When you're beyond survival in your team's hierarchy of needs, then you can plan for the future and think about what you can do today that will help you achieve more in the months and years ahead.
 
-How do I know if you will be a great manager?
+### How do you know if you will be a great manager?
 
 * Ask yourself three questions:
     1. **Do I Find It More Motivating to Achieve a Particular Outcome or to Play a Specific Role?** You are judged on your team's outcomes, so you do whatever most helps them succeed.
@@ -54,7 +56,7 @@ How do I know if you will be a great manager?
     * _I want freedom to call the shots_ — Managers have the responsibility to make decisions in the interest of the team.
     * _I was asked to be a manager_ — If this is not what you want to do, talk to your manager to help you explore alternative career paths.
 
-Difference between leadership and management:
+### Difference between leadership and management
 
 * **Manager** is a specific role to manage other people;
 * **Leadership** is the skill of being able to guide and influence others.
