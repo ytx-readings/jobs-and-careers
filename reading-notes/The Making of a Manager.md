@@ -62,3 +62,64 @@ Difference between leadership and management:
 > * Leadership is a quality rather than a job. We are all leaders and followers at different points in our lives. Many aspects of this book should be useful to those looking to grow as leaders as well as managers, and great managers should cultivate leadership not just in themselves but also within their teams.
 > * This is an important distinction because while the role of a manager can be given to someone (or taken away), leadership is not something that can be bestowed. It must be earned. People must _want_ to follow you.
 > * You can be someone's manager, but if that person does not trust or respect you, you will have limited ability to influence him. I did not suddenly become a "leader" the day my title officially changed. On the contrary, some of my reports were initially skeptical, and it took time for us to develop a strong relationship.
+
+## Chapter 2: Your First Three Months
+
+Your path as a manager joining a new team:
+
+* [Apprentice](#the-apprentice): managing a part of your manager's growing team
+* [Pioneer](#the-pioneer): You are a founding member of a new group and responsible for its growth
+* [New Boss](#the-new-boss): managing an already established team
+* [Successor](#the-successor): taking over the management of the entire team from your previous manager
+
+### The Apprentice
+
+What to take advantage of:
+
+* This is usually the easiest way to transition into being a manager.
+* You have a sense of what works and what doesn't.
+* You're able to ramp up quickly because you have context.
+
+What to watch out for:
+
+* It can feel awkward to establish a new dynamic with former peers. The challenges may include:
+    * Playing the role of coach.
+    * Having hard conversations.
+    * Having people treat you differently or share less information with you.
+* It's tricky to balance your individual contributor commitments with management.
+
+### The Pioneer
+
+What to take advantage of:
+
+* You've done the job, so you know what it takes.
+* You get to build the team that you want.
+
+What to watch out for:
+
+* You may not have much support.
+* It's tricky to balance your IC work with management.
+
+### The New Boss
+
+What to take advantage of:
+
+* People cut you slack in the beginning.
+* You start with a blank slate.
+
+What to watch out for:
+
+* It takes a while to adjust to the norms of a new environment.
+* You need to invest in building new relationships.
+* You don't know the job and what it takes.
+
+### The Successor
+
+What to watch out for:
+
+* It can feel awkward to establish a new dynamic with former peers.
+* The increase in responsibility can feel overwhelming.
+* You feel pressure to do things exactly like your former manager.
+
+> * Your first three months as a new manager are a time of incredible transition. By the end of it, the day-to-day starts to feel familiar — you're adapting to new routines, you're investing in new relationships, and you may begin to have a sense of how you can best support your team.
+> * But time isn't a substitute for comfort. That new-kid-at-school feeling may linger for months or years longer. New managers often ask me, "How long will it take to feel like I know what I'm doing?" I reply quite honestly, "It took me about three years."
