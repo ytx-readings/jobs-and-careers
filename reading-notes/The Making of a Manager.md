@@ -125,3 +125,113 @@ What to watch out for:
 
 > * Your first three months as a new manager are a time of incredible transition. By the end of it, the day-to-day starts to feel familiar — you're adapting to new routines, you're investing in new relationships, and you may begin to have a sense of how you can best support your team.
 > * But time isn't a substitute for comfort. That new-kid-at-school feeling may linger for months or years longer. New managers often ask me, "How long will it take to feel like I know what I'm doing?" I reply quite honestly, "It took me about three years."
+
+## Chapter 3: Leading a Small Team
+
+> * You don't build Rome in a day, and you don't start off your management career standing in front of a packed room delivering a ten-year vision. Instead, most of us begin by managing just a few people. You cultivate an environment of trust while diving into the detailed depths of the work. Everybody knows everybody, and two pizzas are enough to feed the group.
+> * Managing a small team is about mastering a few basic fundamentals: developing a healthy manager–report relationship and creating an environment of support.
+
+### Everything always goes back to people
+
+> * **A manager's job is to _get better outcomes from a group of people working together_ through influencing purpose, people, and process.**
+
+What gets in the way of good work:
+
+1. People don't know how to do good work.
+2. They know how, but they aren't motivated.
+
+Why would someone not motivated to good work?
+
+1. He doesn't have a picture of what great work looks like
+2. The role doesn't align with his aspirations; he would like to do something else instead
+3. Nothing would change if he puts into more effort – no rewards if things improve, and no penalties if they don't
+
+Addressing concerns about lackluster work:
+
+1. Diagnose the people issues behind it
+2. Discuss with them whether it is an issue of motivation
+3. If it doesn't work out, dive into the issue of skills
+
+### Trust is the most important ingredient
+
+> * It's human nature to want your manager to think well of you. Coming across as a complainer, a failure, or a problem employee seems like one of those obvious don'ts in managing up.
+> * The issue, of course, is that if your reports don't tell you how they're really feeling, you can't help them. You may miss early warning signs that lead to bigger problems down the road. People's dissatisfaction will fester beneath the surface until one day they surprise you with their resignation. And most of the time when that happens, they're not just quitting your company, they are also quitting you.
+> * You can avoid being blindsided by developing a relationship founded on trust, in which your reports feel that they can be completely honest with you because they have no doubt that you truly care about them.
+
+Three statements that signify that you have accomplished trust:
+
+1. My reports regularly bring their biggest challenges to my attention.
+2. My report and I regularly give each other critical feedback and it isn't taken personally.
+3. My reports would gladly work for me again.
+
+### Strive to be human, not a boss
+
+Important ways a manager to earn trust with their reports:
+
+* **Respect and care about your report**
+    * _managing is caring_: help your report be successful and fulfilled in her work; learn what they care about; understand that we are not separate people at work and at home
+    * Unconditionally respect a person _as a whole_ rather than what they do for you
+* **Invest time to help your report**
+    * Make 1:1 useful for addressing problems that may not come up otherwise
+        * 1:1 strategies:
+            * Discuss top priorities
+            * Calibrate what "great" looks like
+            * Share feedback
+            * Reflect on how things are going
+    * A coach's best tool for understanding what's going is to _ask_
+        * Questions to get the conversations moving:
+            * **Identify**: understand what really matters for your report and what topics are worth spending more time on
+                * What's top of mind for you right now?
+                * What priorities are you thinking about this week?
+                * What's the best use of our time today?
+            * **Understand**: get to the root of the problem and what can be done about it
+                * What does your ideal outcome look like?
+                * What's hard for you in getting to that outcome?
+                * What do you really care about?
+                * What do you think is the best course of action?
+                * What's the worst-case scenario you're worried about?
+            * **Support**: zero in on how you can be of greatest service to help your report
+                * How can I help you?
+                * What can I do to make you more successful?
+                * What was the most useful part of our conversation today?
+* **Be honest and transparent about your report's performance**
+    * Your report should have a clear sense at all times of what your expectations are and where he stands
+    * Don't assume he can read between the lines or that no news is good news
+* **Admit your own mistakes and growth areas**
+    * _People will forget what you said, people will forget what you did, but people will never forget how you made them feel._
+    * When we are going through tough times, the thing that's often the most helpful isn't advice or answers but _empathy_.
+    * Show your reports authentically your fears, mistakes and uncertainties will let you build a better relationship with reports.
+
+### Help people play to their strengths
+
+> * We humans are wired to see the bad more clearly than the good. It's an evolutionary advantage, after all. Imagine you are an ancient cave dweller surveying the landscape: Would you rather be better at noticing what's fine and normal — deer grazing, tree branches swaying, the sun shining — or at spotting the hungry lion in the shadows?
+> * As a manager, my attention is similarly drawn toward the problem spots. I'm usually focused on the designs that aren't quite there, the projects that are slipping behind schedule, or the teams that have hiring needs. Whenever I'm talking with my reports, it's easy to spend all our time on the things that need improvement.
+> * And yet, all of us likely remember moments when a kind word
+about our unique strengths made us swell with pride and gave us more fuel to achieve our goals.
+
+> * If you have five people on your team, four of whom are doing well and one who isn't, you may feel like you should focus most of your time and energy on the struggling report because you want to “fix” the problem. But in the same way that **individuals should play to their strengths**, so should you pay attention to your team's **top talent — the people who are doing well and could be doing even better**. Don't let the worst performers dominate your time — try to _diagnose, address, and resolve their issues_ as swiftly as you can.
+> * Good CEOs know that they should double down on the projects that are working and put more people, resources, and attention on those rather than get every single project to the point of "not failing." Similarly, good investors know that helping to identify and grow a single start-up into the next billion-dollar company is worth dozens of other investments that lose money. The rising stars on your team may not be clamoring for your attention, but if you help them to dream bigger and become more capable leaders, you'll be amazed at how much more your team can do as a whole.
+
+### The one thing you shouldn't tolerate on your team
+
+* "**The No Asshole Rule**" — an _asshole_ is a person who makes other feel worse or who specifically targets people that are less powerful than him or her
+    * The team actually becomes _better off_ when brilliant assholes leave
+    * It is possible to find people who are just as talented and who are humble and kind
+    * Assholes can change if you set up a culture that won't tolerate them
+
+### You don't always have to make it work
+
+* Personal and organization values have a huge impact on whether someone would be happy on a given team; if no, the person will find frequent misalignment between their team's jobs and what they want for their own career.
+* If the fit isn't right, sometimes a move within the same organization solves the problem; if not, then person may not fit the company as a whole, and parting ways may be the best outcome for everyone.
+* Do not try to fit a round peg into a square hole. Each of us ought to be working in an environment where we love with the people who share our passions.
+
+### Make people moves quickly
+
+* Mismatched values may make a person feel frustrated, for example if his innovated ideas and concepts are consistently rejected in favor of more practical ones.
+* If a person has a fundamental skill gap affecting their ability to do the job well, it is unreasonable to expect that the best coaching could turn things around in a few months.
+* Two options when you see someone isn't a good fit for your team: _help them find a new role in your organization_ or _let them go_.
+    * The first option should always be considered. If a better role is more aligned with the person's interests and skills, it is the best outcome both for that person and for the company.
+    * Do not hesitate to let a person go if they lack the right skills or demonstrate toxic behavior. This may be unfortunate, but you need to do it respectfully and directly.
+* The relationship between a manager and a report is a two-way street.
+* The right coaching can both help your report get on the best possible path towards the next chapter, and help you become a better manager.
+* Letting people go is an extreme situation. More commonly, the right coaching can help your reports understand what to aspire to, how to overcome habits holding them back, and how to grow their impact.
