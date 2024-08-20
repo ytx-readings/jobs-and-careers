@@ -235,3 +235,60 @@ about our unique strengths made us swell with pride and gave us more fuel to ach
 * The relationship between a manager and a report is a two-way street.
 * The right coaching can both help your report get on the best possible path towards the next chapter, and help you become a better manager.
 * Letting people go is an extreme situation. More commonly, the right coaching can help your reports understand what to aspire to, how to overcome habits holding them back, and how to grow their impact.
+
+## Chapter 4: The Art of Feedback
+
+> * For a leader, giving feedback — both when things are going well and when they aren't — is one of the most fundamental aspects of the job. Mastering this skill means that you can knock down two of the biggest barriers preventing your reports from doing great work — unclear expectations and inadequate skills — so that they know exactly where to aim and how to hit the target.
+
+### What does great feedback look like?
+
+Why great feedback is meaningful to you: _inspire you to change your behavior, resulting in your life getting better_.
+
+How to make great feedback:
+
+1. **Set clear expectations at the beginning**: tell your report what great jobs looks like, and how it distinguishes from mediocre and bad jobs.
+2. **Give task-specific feedback as frequently as you can**: address what is done well and what could be done better in the future; focus on _what_ rather than _who_.
+3. **Share behavioral feedback thoughtfully and regularly**: behavioral feedback provides a level of personalization and depth that is missing on task feedback; helps people understand how others see thm, often different from how they see themselves.
+4. **Collect 360-degree feedback for maximum objectivity**: gathering behavioral feedback from a handful of colleagues leads to better insights.
+
+### Every major disappointment is a failure to set expectations
+
+If a report gets a rude shock the next month on performance review, he may have three explanations, none of which are good:
+
+> 1. The review isn't fair. If things really were so dire, why hasn't this come up until now? This must be a mistake.
+> 2. The review is fair, but my manager was negligent and didn't realize I was underperforming until the end of the half.
+> 3. The review is fair, but my manager wasn't honest in sharing feedback with me along the way, so I didn't have a chance to improve.
+
+Examples of how _setting expectations early_ can preempt future disappointment:
+
+1. Your report as made it clear that she wants a promotion
+    * Tell them the gaps towards a promotion
+    * Give them frequent feedback of how they are doing relative to the expectations
+2. You've just assigned a challenging new project to your report
+    * Let your report know how you are planning to get involved
+    * Tell them which decisions you expect to make, and which they should make
+3. Your team has set a goal to launch in October
+    * You want to be informed sooner than later, so you have more options
+    * Readjust expectations as quickly as possible, which helps people recover from errors with grace
+
+### Your feedback only counts if it makes things better
+
+_If your report doesn't see the problem, they have no way to fix it._ Consider the following factors when giving feedback:
+
+* **Am I giving feedback often enough?** — Give feedback more often and remind yourself that you probably are not doing enough.
+* **Is my feedback being heard?** — The best way is to make your report _feel safe_, and show that you are caring about them and want them to succeed.
+* **Does my feedback lead to positive action?** — Remember these three tips to ensure that your feedback can be taken positively and acted upon by your report:
+    1. Make your feedback as specific as possible.
+    2. Clarify what success looks and feels like.
+    3. Suggest next steps.
+
+### Delivering critical feedback or bad news
+
+> Telling your report something disappointing is both important and unavoidable. Here, the _how_ matters tremendously.
+
+* When you deliver bad news to your report about your decision, you should speak it out at the first moment when you both sit down.
+* Own the decision, and don't open it up for discussion.
+* The best way to deliver bad news is to do it straightly, treat your report with respect, and signify that you are helping them improve.
+
+> * Every relationship is different, so the frequency, style, and type of feedback that works for one person might not work for someone else. Mistakes are inevitable. But when you give feedback well and you help your report grow as a result, there is no better feeling.
+> * No matter what happens, the skills your team members develop are theirs for life.
