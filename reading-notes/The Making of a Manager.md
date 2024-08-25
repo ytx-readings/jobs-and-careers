@@ -362,3 +362,84 @@ How can you be twice as good:
 * **Take advantage of formal training**: While rarely urgent or necessary, formal training can be a great way to learn new skills and improve how you work and how you support the future of your team
 
 > * Learning how to be a great leader means learning about your superpowers and flaws, learning how to navigate the obstacles in your head, and learning how to learn. With these tools comes the confidence that you're meant to be here just as you are — no masks or pretenses needed — and that you're ready for whatever challenges lie ahead.
+
+## Chapter 6: Amazing Meetings
+
+Good meetings are simple and straightforward, and you leave them with the same feeling every time:
+
+* The meeting was a great use of my time.
+I learned something new that will help me be more effective at my job.
+* I left with a clearer sense of what I should do next.
+* Everyone was engaged.
+* I felt welcomed.
+
+### What is a great outcome for your meeting?
+
+In order to run great meetings, you should be clear about the meetings' objectives. Your ultimate purpose is to let members of the team feel closer and collaborate more effectively.
+
+* Making a decision
+    * A great decision-making meeting does the following:
+        * Gets  decision made (obviously)
+        * Includes the people *most directly affected by the decision as well as a clearly designated decision-maker
+        * Presents all credible options objectively and with relevant background information, and includes the team's recommendation if there is one
+        * Gives equal airtime to dissenting opinions and makes people feel that they were heard
+    * Examples of bad outcomes to avoid:
+        * People feel that their side wasn't presented well, so they don't trust the resulting decision.
+        * Decisions take a long time to make, which delays progress. While important and hard-to-reverse decisions deserve deep consideration, be wary of spending too much time on small, easy-to-reverse decisions.
+        * Decisions keep flip-flopping back and forth, which makes it hard to trust and act on them.
+        * Too much time is spent trying to get a group to consensus rather than escalating quickly to a decision-maker.
+        * Time is wasted on rehashing the same argument twenty different ways.
+* Sharing information
+    * A great informational meeting accomplishes the following:
+        * Gets everyone on the same page about what success for the project looks like
+        * Honestly represents the current status of the work, including an assessment of how things are going, any changes since the last check-in, and what the future plans are
+        * Clearly frames open questions, key decisions, or known concerns to get the most helpful feedback
+        * Ends with agreed-upon next steps (including when the next milestone or check-in will be)
+* Generating ideas
+    * A great generative meeting does the following:
+        * Produces many diverse, non-obvious solutions through ensuring each participant has quiet alone time to think of ideas and write them down (either before or during the meeting)
+        * Considers the totality of ideas from everyone, not just the loudest voices
+        * Helps ideas evolve and build off each other through meaningful discussion
+        * Ends with clear next steps for how to turn ideas into action
+* Strengthening relationship
+    * A great team-bonding meeting enables the following:
+        * Creates better understanding and trust between participants
+        * Encourages people to be open and authentic
+        * Makes people feel cared for
+
+### Invite the right people
+
+* A great meeting is more likely to take place if everyone is necessary, and no one is extraneous
+* To assess which people to invite, ask yourself: **Which people are necessary to make the outcome happen?**
+* Solutions:
+    * Shrink the attendee list.
+    * Find other ways to invest in design education and building relationships, including providing detailed meeting notes and hosting more leadership Q&As.
+
+### Give people a chance to come prepared
+
+* "_The curse of knowledge_" — the cognitive bias that makes it difficult for people with certain knowledge to remember what it was like for a beginner seeing the information for the first time.
+* Solution: help everyone come prepared
+    * Sending out an agenda ahead of time
+    * Follow-ups need to be treated with as much care as the preparation
+    * In the last few minutes of a meeting, get into the habit of asking — make sure everyone attending the meeting agree on next steps
+    * After the meeting, send out a recap to the attendees with a summary of the discussion, a list of specific action items and who is responsible for each, and when the next check-in will be
+        * If a decision was made, then that should be communicated to the right people
+        * If feedback was given, then that should be acted upon
+        * If ideas were generated, then the meeting organizer should clarify what the process is to take those to the next stage
+
+### Make it safe for people to contribute
+
+> If you are a meeting organizer trying to generate ideas, make a decision, or create stronger relationships, you will get better results if you can get your entire group to contribute. This is why it's so important to foster a welcoming environment for questions, discussions, discourse, and dissent. If you present what you think is a brilliant idea but most of the room secretly thinks it's ridiculous, it doesn't help you if nobody feels comfortable telling you how they really feel.
+
+Strategies to create a safe environment:
+
+* Be explicit about the norms you want to set
+* Change up your meeting format to favor participation
+* Manage equal airtime
+* Get feedback about your meeting
+
+### Some meetings don't need you and some don't need to exist at all
+
+> * As a manager, your time is precious and finite, so guard it like a dragon guards its treasure stash. If you trust that the right outcomes will happen without you, then you don't need to be there.
+> * Be on the lookout as well for meetings that don't seem valuable for anyone. They should be canceled or revamped.
+> * If you find yourself in a recurring meeting of questionable value, do everyone an important service by kindly letting the organizer know. Life's too short to be wasted in subpar meetings. Aim to make every single one you are a part of useful, awesome, and energizing so that your team can achieve more together.
