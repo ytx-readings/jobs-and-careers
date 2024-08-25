@@ -292,3 +292,73 @@ _If your report doesn't see the problem, they have no way to fix it._ Consider t
 
 > * Every relationship is different, so the frequency, style, and type of feedback that works for one person might not work for someone else. Mistakes are inevitable. But when you give feedback well and you help your report grow as a result, there is no better feeling.
 > * No matter what happens, the skills your team members develop are theirs for life.
+
+## Chapter 5: Managing Yourself
+
+> * Being a great manager is a highly personal journey, and if you don't have a good handle on yourself, you won't have a good handle on how to best support your team.
+
+### Everybody feels like an imposter sometimes
+
+> * Imposter syndrome is what makes you feel as though you're the only one with nothing worthwhile to say when you walk into a room full of people you admire.
+
+Why imposter syndromes hit managers so hard? Two reasons:
+
+1. You are often looked to answers
+2. You are constantly put in the position of doing things you haven't done before
+
+> * Management isn't an innate skill. There is no such thing as an "all-around great manager" who can transition effortlessly between different leadership roles. We must look at the specific context.
+
+### Get to brutal honesty with yourself
+
+* Your strengths and weaknesses directly affect how you manage
+* The world's top leaders come from vastly different molds
+* How to _brutally_ and honestly understand yourself and how you lead:
+    1. know your strengths — the things you are talented and love to do
+    2. know your weaknesses and triggers
+    3. calibration — make sure that how we perceive ourselves match reality
+        * Ask others for their unvarnished opinions:
+            * Ask your manager on what they think you are doing well and how they are expecting of you
+            * Ask 3-7 people that work closely with you for feedback to help you improve
+            * Ask for task-specific feedback to calibrate yourself on specific skills
+* Understanding the difference between _fixed mindset_ and _growth mindset_; keep a growth mindset, and seek feedback from others to find out the _fastest path to get you where you want to go_
+
+### Understand yourself at your best and worst
+
+* Understand the habits that make yourself be your best
+* Understand the situations that do the opposite — triggering an intensely negative reaction that derails your effectiveness
+* Share your triggers and learn what other people's are
+
+### Finding your confidence when you're in the pit
+
+Tips to manage your mental state and escape from the pit:
+
+1. **Don't beat yourself up for feeling bad**
+    1. Recognize that everyone goes through hard times, and give yourself permission to worry
+    2. Admit that you are feeling bad
+2. **Repeat: "the story I have in my head is probably irrational"**
+    1. Recognize how we are biased and how we perceive events in such way
+        * When we gather a few data points, we try to construct the whole narrative without actually having all the facts
+    2. When we encounter a negative story, step back and question whether your interpretation is correct
+3. **Close your eyes and visualize**
+    1. Use _brain imaging_ to visualize different scenarios
+    2. Find out the mental state you'd like to be in, and make it work towards you
+4. **Ask for help from people you can be real with**
+    1. Admitting your struggles and asking for help is the opposite of weakness — it's a sign of courage and self-awareness
+    2. Find your support group and use them as effective resources for assisting you to face challenges — difficult relationships, uncertainty about careers, balancing parenthood and work, etc.
+5. **Celebrate the little wins**
+    1. Focus on the ways you are winning
+    2. Note down things you have done well and are proud of
+6. **Practice self-care by establishing boundaries**
+    1. Do not be overly stressed about work
+    2. Set boundaries for other important aspects of your life, e.g. spending time with loved ones, pursuing hobbies, exercising, giving back to your community, etc.
+
+### Learning to be twice as good
+
+How can you be twice as good:
+
+* **Ask for feedback**: ask for feedback from other people _all the time_, hear it openly, and respond with real change, for your _self-improvement_
+* **Treat your manager as a coach**: engage your manager for feedback; tell them hard problems _with your thinking_ so they can help you work through them
+* **Set aside time to reflect and set goals**: do it everyday, for your own benefits, and find out what works best for you; set personal goals and do bigger look-backs every six months, to give yourself longer time to tackle ambitious projects and learn new skills
+* **Take advantage of formal training**: While rarely urgent or necessary, formal training can be a great way to learn new skills and improve how you work and how you support the future of your team
+
+> * Learning how to be a great leader means learning about your superpowers and flaws, learning how to navigate the obstacles in your head, and learning how to learn. With these tools comes the confidence that you're meant to be here just as you are — no masks or pretenses needed — and that you're ready for whatever challenges lie ahead.
