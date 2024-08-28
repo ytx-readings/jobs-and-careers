@@ -443,3 +443,62 @@ Strategies to create a safe environment:
 > * As a manager, your time is precious and finite, so guard it like a dragon guards its treasure stash. If you trust that the right outcomes will happen without you, then you don't need to be there.
 > * Be on the lookout as well for meetings that don't seem valuable for anyone. They should be canceled or revamped.
 > * If you find yourself in a recurring meeting of questionable value, do everyone an important service by kindly letting the organizer know. Life's too short to be wasted in subpar meetings. Aim to make every single one you are a part of useful, awesome, and energizing so that your team can achieve more together.
+
+## Chapter 7: Hiring Well
+
+### Design your team intentionally
+
+> * The solution to both a healthier diet and a better team is to plan ahead.
+
+Questions to ask yourself for planning how to hire:
+
+* How many new people will I add to our team this year?
+* For each new hire, what level of experience am I looking for?
+* Which specific skills or strengths do we need in our team?
+* Which skills and strengths does our team already have that new hires can stand to be weaker in?
+* What traits, past experiences, or personalities would strengthen the diversity of our team?
+
+> * Having a thoughtful, one-year-out organizational plan lets you stay ahead of hiring needs and gives you a handy framework for evaluating candidates so that you won't fall into the trap of saying yes to the next person who comes along.
+> * Even if things change — your organization restructures, an employee abruptly leaves, priorities shift — you can modify your plan as you go along so that there's always a clear picture in your head of what your team should look like.
+
+### Hiring is your responsibility
+
+Successful hiring managers form close partnerships with the recruiting team to identify, interview, and close the best
+people. However, if you aren't working with a recruiter, you need to play both roles on your own. Here are the strategies for you to approach working together:
+
+* Describe your ideal candidate as precisely as you can
+* Develop a sourcing strategy
+* Deliver an amazing interview experience
+* Show candidates how much you want them
+
+### Hiring is a gamble, but make smart bets
+
+> * We might think we are good judges of character, but the evidence suggests otherwise.
+
+Three reasons why a handful of interviews cannot be perfectly reliable to predict someone's success:
+
+1. It is not possible to recreate the actual working environment in a 30 to 60-minute interview
+2. Interviewers are personally biased in evaluating candidates
+3. People are capable of changing enormously
+
+Approaches to raise your chances of success:
+
+* Examine past examples of similar work
+* Seek out trusted recommendations
+* Get multiple interviewers involved
+* Look for passionate advocates rather than consensus
+* Prepare your interview questions ahead of time
+* Reject anyone who exhibits toxic behavior
+* Build a team with diverse perspectives
+* Hire people who are capable of more
+* Meeting frogs is part of the deal, but believe in the process
+
+### Hiring when you need five, ten, or hundreds of people
+
+Most important things for hiring at scale:
+
+* Successful hiring is all about diligent execution
+* Do your research when hiring leaders
+* Take the long view with top talent
+* Build a great bench
+* Create a culture that prioritizes hiring well
