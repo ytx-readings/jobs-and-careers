@@ -502,3 +502,84 @@ Most important things for hiring at scale:
 * Take the long view with top talent
 * Build a great bench
 * Create a culture that prioritizes hiring well
+
+## Chapter 9: Leading a Growing Team
+
+> When I first began managing, my team was only a handful of people. And then it doubled. Every few years, it doubled again. At each of those points, I felt like I had an entirely different job. While the core principles of management stayed the same, the day-to-day changed significantly.
+
+### Big teams versus small teams
+
+There are striking contrasts between managing small and large teams:
+
+* Direct to indirect management
+    * You no longer have time to do 1:1s or have direct interactions all the time with your reports
+    * Managers of growing teams eventually start to hire or develop managers underneath them
+* People treat you differently
+    * People are less likely to tell you the ugly truth or challenge you when they think you are wrong, even if you'd like them to
+    * Countermeasures: express to people that you welcome dissenting opinions and reward those who express them
+* Context switching all day, every day
+    * A few techniques to make your routine work easier: scanning through the calendar every morning and prepare for each meeting; developing a note-taking and task-management system to keep track of things; reflect at the end of every week
+    * There are different issues awaiting you to work through at any given time – some are big, some are small, ans some are even unexpected – and you learn to roll with it
+* You pick and choose your battles
+    * You must prioritize everything and focus on the most important things for you to pay attention to
+* The skills that matter become more and more people-centric
+    * As teams grow, managers spend less and less time on the specific craft of their discipline
+    * Success becomes more and more about mastering a few key skills: hiring exceptional leaders, building self-reliant teams, establishing a clear vision, and communicating well
+
+### The tightrope act of great delegation
+
+* Two extremes of management:
+    * **Diving in too much** – you are the _micromanager_; talented people leave before they can't stand working for you; they are not learning because they don't get a change of solving problems on their own
+    * **Stepping back too much** – some reports may appreciate the independence, but more wish they have more support; your team feels like in the Wild West, a place with no rules because of no sheriff in town
+* In the real world we are rarely at the extremes, but we tend to lean towards one or the other based on our values. _You don't always know how you're doing the balance._
+* Delegating well is far from an exact science, but there are several guiding principles presented in following sections.
+
+### Giving people big problems is a sign of trust
+
+* Two erroneous thoughts:
+    1. Overestimating what you, the manager, are capable of. You cannot solve _that many_ of all work issues that arise.
+    2. Assuming that nobody wants to take on hard problems. Instead, people _want_ to be challenged.
+* The key is to _actually_ **believe that your report is capable of solving the problem**.
+* Delegating a hard problem doesn't mean you simply walk away.
+    * Your report is the captain, but you are with him on the boat.
+    * You are rooting him on, helping him with whatever he needs you to do, and coaching him so he can smoothly and safely sail to his destination.
+
+### Two heads, one shared vision
+
+* Doing knowledge transfer during 1:1s is a poor management practice, for many reasons
+    * It should not be for the manager's benefits, but instead should be helpful for the report
+    * It is also unrealistic to know every details about your report's day-to-day, especially as your team grows and your reports are managers with their own responsibilities
+* What you _should_ expect is to see eye to eye on what is important
+    * Ask yourself two things:
+        1. What are the biggest priorities right now for our team?
+        2. Are we aligned in how we think about people, purpose, and process?
+    * Beyond people, you and your report should be aligned on why you're doing, what you're doing and what success looks like
+        * Constantly talking about the purpose with your reports makes it more vivid in everyone's minds
+        * When the vision is clear, the right actions tend to follow
+    * Lastly, make sure your reports establish healthy processes for their teams, reaching mutual agreements with the manager on how to more effectively get things done
+
+### What to do when a manager struggles
+
+* A manager's job is to be a _positive multiplier_ for her team; when she isn't, _there is a cost_ – the calls are high and the outcomes are poor.
+* Even when a manager isn't actively making things worse, she may still be holding the team back.
+* At fast-scaling organizations, managers face the situation of leading rapidly growing teams in a relatively short period of time, and they have to deal with new challenges and responsibilities.
+* What should you do if one of the manager isn't meeting the expectations of the role: **move him off the current role**.
+
+### Aim to put yourself out of a job
+
+> * _Growing great teams means that you are constantly looking for ways to replace yourself in the job you are currently doing._
+> * The point of being a manager is not to satisfy your own ego; it's to _improve the outcomes of your team_.
+
+* Rule of thumb for delegation: spend your time and energy on the intersection of:
+    1. What is most important to the organization
+    2. What you're uniquely able to do better than anyone else
+* Anything your report can do just as well or better than you is what you should delegate.
+* For the things you are doing better than your report, unless it is one of the "most important priorities" or you don't believe they are set up to success, you should try to delegate as much as possible and coach your report along the way.
+* As for what you shouldn't delegate, consider the unique value you bring to the organization when it comes to the organization's top priorities.
+* Beyond your individual superpowers, there are a few other patterns that lie at the intersection of "**important to the organization**" and "**you can add unique value**":
+    * Identifying and communicating what matters
+    * Hiring top talent
+    * Resolving conflicts within your group
+
+> * As long as you continue to be motivated by your purpose, as long as your aspirations extend beyond what your team is currently capable of, as long as you can see new challenges on the horizon, then there's opportunity for you to have more impact.
+> * As your team grows in its size and abilities, so too must you grow to keep pace as its manager. The act of constantly trying to replace yourself means that you create openings to stretch both your leaders and yourself. Right ahead is another mountain that's bigger and scarier than the one before. Everyone keeps climbing, and everyone achieves more together.
