@@ -583,3 +583,44 @@ There are striking contrasts between managing small and large teams:
 
 > * As long as you continue to be motivated by your purpose, as long as your aspirations extend beyond what your team is currently capable of, as long as you can see new challenges on the horizon, then there's opportunity for you to have more impact.
 > * As your team grows in its size and abilities, so too must you grow to keep pace as its manager. The act of constantly trying to replace yourself means that you create openings to stretch both your leaders and yourself. Right ahead is another mountain that's bigger and scarier than the one before. Everyone keeps climbing, and everyone achieves more together.
+
+## Chapter 10: Nurturing Culture
+
+### Know the kind of team you want to be a part of
+
+The key is to find the intersection between what your team does well and what you hope the team values:
+
+* Understanding your current team
+* Understanding your aspirations
+* Understanding the difference
+
+> * Depending on what's within your control, some of your aspirations may be doable and some unrealistic.
+> * Once you've identified the values you want to nurture within your team, the next step is to develop a game plan to help those values flourish.
+
+### Never stop talking about what's important
+
+> * Hard conversations are critical for company culture.
+> * When you value something deeply, don't shy away from talking about it. Instead, embrace telling people why it's important to you.
+> * Talking abut your values makes you a more authentic and inspiring leader.
+
+### Always walk the walk
+
+> * People watch their bosses closely to understand the team's values and norms.
+> * If your say something  is important to you and you'd like the rest of your team to care about it, be the first person to live that value. Otherwise, don't be surprised when nobody else does either.
+
+### Create the right incentives
+
+> The final piece is ensuring that your environment rewards people who behave according to your team's values and holds people accountable when they don't.
+
+* Have a frank discussion about what we should value and _why_.
+* Other incentive traps to avoid:
+    * Rewarding individual performance over anything else
+    * Rewarding short-term gains over long-term investments
+    * Rewarding lack of perceived issues or conflict
+    * Rewarding the squeaky wheel
+
+> The way to identify and resolve incentive traps is to regularly reflect on what the difference is between your stated values and how people are actually behaving on your team.
+
+### Invent traditions that celebrate your values
+
+> As a leader, nurturing culture may not be the first thing on your mind. You may be dreaming about the changes you want to create in the world or sketching out the master strategy that will get you there. But success or failure aren't usually the results of a few sweeping decisions. Rather, how far you get will be the sum of the millions of actions taken by your team during the small, quotidian moments.
