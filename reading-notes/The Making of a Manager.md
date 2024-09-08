@@ -624,3 +624,7 @@ The key is to find the intersection between what your team does well and what yo
 ### Invent traditions that celebrate your values
 
 > As a leader, nurturing culture may not be the first thing on your mind. You may be dreaming about the changes you want to create in the world or sketching out the master strategy that will get you there. But success or failure aren't usually the results of a few sweeping decisions. Rather, how far you get will be the sum of the millions of actions taken by your team during the small, quotidian moments.
+
+## Epilogue: The Journey Is 1% Finished
+
+> A group of people working in unison is a wonderful thing to behold. Done well, it ceases to be about you or me, one individual or another. Instead, you feel the energy of dozens or hundreds or even thousands of hearts and minds directed toward a shared purpose, guided by shared values. If you or I do our jobs well, then our teams will thrive. We will build something that will outlast us, that will be made stronger by all who become a part of it.
